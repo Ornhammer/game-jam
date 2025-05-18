@@ -135,7 +135,22 @@ Balance_drill
   - [Johannes]
 - Description: Tunnel-digging game about maintaining balance between nature and machines
 
+
 ---
+Balance_drill
+
+---
+Balance Bastion
+-----------------------
+
+<img src="images/hetzner_game_jam_logo_small.png" height="200">
+
+- Link: [(https://github.com/Ornhammer/BalanceBastion)]
+- Contributors:
+  - Alexander Auernhammer
+- Description: Welcome to Balance Bastion, a giant fortress sitting on a small rock pillar. Follow the fairy and collect as many treasures in the abondened building as you can and escape back at the entrance.
+
+
 
 Interested in games developed during our previous Game Jams?
 You can find all previous events here:
